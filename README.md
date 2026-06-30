@@ -51,7 +51,7 @@
 ### Full Stack Developer Intern
 May 2025 – October 2025
 
-- Built AI-powered Multi-Vendor E-Commerce Platform
+- Built AI-powered Multi-Vendor E-Commerce SaaS Platform
 - Integrated AI recommendations and product generation
 - Implemented JWT Authentication & RBAC
 - Developed secure REST APIs
