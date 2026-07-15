@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+Application+Builder;Open+Source+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Gen+AI+ Engineer;MERN+Stack+Engineer;AI+Application+Builder;Open+Source+Enthusiast;Future+Software+Engineer" />
 
 <img src="https://komarev.com/ghpvc/?username=vishwasmishra2995&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 
