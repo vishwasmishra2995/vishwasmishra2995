@@ -16,7 +16,7 @@
 
 🎓 B.Tech Information Technology (2022–2026)
 
-💼 Full Stack Developer Intern @ Eduzent Infotech Pvt. Ltd.
+💼 Full Stack Developer Intern @ ProDesk IT
 
 🌱 Currently building AI + MERN production-grade applications
 
@@ -46,16 +46,23 @@
 
 # 💼 Experience
 
-## Eduzent Infotech Pvt. Ltd. (Remote)
+## ProDesk IT (Remote)
 
 ### Full Stack Developer Intern
 May 2025 – October 2025
 
-- Built AI-powered Multi-Vendor E-Commerce SaaS Platform
-- Integrated AI recommendations and product generation
-- Implemented JWT Authentication & RBAC
-- Developed secure REST APIs
-- Optimized user personalization and session management
+• Engineered a production-grade AI-powered full-stack platform using React.js, Node.js, Express.js, and
+MongoDB,implementing scalable architecture, modular services, secure APIs, and reliable end-to-end application
+workflows.
+• Integrated LLM-powered intelligent features using Gemini/Groq APIs, implementing advanced prompt
+engineering, contextual processing, structured AI responses, token optimization, and robust fallback mechanisms
+for production reliability.
+• Architected secure and scalable RESTful APIs with JWT authentication, role-based authorization,
+request validation, rate limiting, and centralized error handling, ensuring reliable communication between
+frontend, backend, and external services.
+• Deployed and maintained production-ready full-stack applications using Docker and cloud platforms,
+managing environment configurations, secrets, CORS policies, production builds, deployment workflows, and ser
+vice health.
 
 ---
 
